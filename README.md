@@ -21,20 +21,20 @@ I like code that is easy to understand, simple to change, and documented well en
 - Databases: ERD, relationships, normalization, and SQL
 - Engineering habits: Git workflow, refactoring, readable README files, and clear commits
 
-## Featured Work
+## Projects I'm Building
 
-### [Diplom](https://github.com/Horakter/Diplom)
-A larger project where I am practicing application structure, implementation flow, and project documentation.
+### Java Application
+A structured Java project focused on object-oriented design, clean application logic, validation, file/database persistence, and tests.
 
-### [Practice-PM0204](https://github.com/Horakter/Practice-PM0204)
-Practice work collected while strengthening core programming skills and learning to keep projects organized.
+### Swift iOS App
+A small iOS application focused on SwiftUI screens, navigation, state management, and clear separation between interface and logic.
 
-### [ERD](https://github.com/Horakter/ERD)
-Database design work focused on entities, relationships, and clear data modeling.
+### Database Design
+ERD and SQL practice focused on relationships, normalization, and turning real requirements into clear data models.
 
 ## What I'm Improving Now
 
-- Turning older practice repositories into cleaner portfolio projects
+- Turning older practice work into cleaner portfolio repositories
 - Adding better README files with setup steps and screenshots
 - Building stronger Java projects with tests
 - Creating small Swift/iOS apps with clear structure
