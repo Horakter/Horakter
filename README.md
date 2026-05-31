@@ -21,16 +21,18 @@ I like code that is easy to understand, simple to change, and documented well en
 - Databases: ERD, relationships, normalization, and SQL
 - Engineering habits: Git workflow, refactoring, readable README files, and clear commits
 
-## Projects I'm Building
+## Portfolio Direction
 
-### Java Application
-A structured Java project focused on object-oriented design, clean application logic, validation, file/database persistence, and tests.
+### Java Backend / Console Application
+A Java project focused on OOP, collections, validation, file/database persistence, and unit tests.  
+Goal: build a clean application that is easy to run, read, and extend.
 
 ### Swift iOS App
-A small iOS application focused on SwiftUI screens, navigation, state management, and clear separation between interface and logic.
+An iOS app built with SwiftUI, navigation, state management, and separated business logic.  
+Goal: practice building simple, polished mobile interfaces with clear structure.
 
 ### Database Design
-ERD and SQL practice focused on relationships, normalization, and turning real requirements into clear data models.
+ERD and SQL practice focused on real-world entities, relationships, normalization, and readable schema design.
 
 ## What I'm Improving Now
 
@@ -41,4 +43,4 @@ ERD and SQL practice focused on relationships, normalization, and turning real r
 
 ---
 
-I am still learning, but I care about doing the work properly: clean structure, clear naming, useful documentation, and steady improvement.
+I focus on steady progress: writing cleaner code, improving project structure, and turning practice work into portfolio-ready applications.
